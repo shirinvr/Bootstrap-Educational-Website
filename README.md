@@ -34,7 +34,7 @@ Locate the img folder in the project directory.
 Replace the logo.png file with your own logo file. Make sure the new logo file has the same name and file format.
 Open the index.html file in a text editor.
 Locate the `<a class="navbar-brand" href="#">` tag and update the href attribute with your website's URL.
-Update the text within the <a class="navbar-brand" href="#"> tag with your institution's name or branding.
+Update the text within the `<a class="navbar-brand" href="#">` tag with your institution's name or branding.
 
 
 Modifying the navigation menu
